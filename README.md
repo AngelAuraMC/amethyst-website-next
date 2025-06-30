@@ -1,5 +1,5 @@
 # AngelAuraMC website
-- Index HTML v2025.0621.0
+- Index HTML v2025.0630.0
   - Main page structure
 - Stylesheet v2025.0621.0
   - Styling, dark mode, layouts
@@ -26,6 +26,8 @@ No building, no npm, no node, no Docker, just a good ol website.
 
 ### Contribution guidelines
 If you'd like to contribute to this repository then by all means feel free to by sending a pull request.
+
+When contributing code, please make sure to update any file versions both in the file itself and on this README in the format YYYY.MMDD.patch. This format should leave you with v2025.0630.1 if the day is June 30th of 2025 and it is the second time you have updated the file in the day.
 
 ## Third Party Resources
 - [Font Awesome](https://fontawesome.com/) Free [(v6.4.0)](https://fontawesome.com/v6/docs/changelog/#v6-4-0)
